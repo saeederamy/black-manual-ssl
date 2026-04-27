@@ -75,7 +75,7 @@ sudo chmod 644 /etc/ssl/certificate.crt
 sudo chmod 600 /etc/ssl/private.key
 ```
 
-Now, simply enter `/etc/ssl/certificate.crt` and `/etc/ssl/private.key` in your panel's SSL configuration (e.g., Sanaei, Alireza X-UI, or Nginx).
+Now, simply enter `/etc/ssl/certificate.crt` and `/etc/ssl/private.key` in your panel's SSL configuration (e.g. Nginx).
 
 ---
 ---
@@ -163,7 +163,7 @@ sudo chmod 600 /etc/ssl/private.key
 ```
 
 ✅ **کار تمام است!**
-حالا کافیست مسیر `/etc/ssl/certificate.crt` و `/etc/ssl/private.key` را در تنظیمات پنل خود (مثل پنل سنایی، علیرضا یا انجینکس) وارد کنید.
+حالا کافیست مسیر `/etc/ssl/certificate.crt` و `/etc/ssl/private.key` را در تنظیمات پنل خود (مثل انجینکس) وارد کنید.
 
 </div>
 
